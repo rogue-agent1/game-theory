@@ -1,10 +1,11 @@
-# Game Theory
+# game_theory
 
-A zero-dependency Python CLI tool.
+game_theory: Nash equilibrium finder for 2-player matrix games.
+
+Single-file, zero-dependency Python CLI.
 
 ## Usage
 
 ```bash
-python game_theory.py test
-python game_theory.py demo
+python3 game_theory.py test
 ```
